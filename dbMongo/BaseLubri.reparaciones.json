@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "657fe7b98ba228fa0a36858b"
+  },
+  "dominio": "FOM828",
+  "fecha": "18/12/2023",
+  "tipoDeRep": "Service",
+  "observaciones": "se realizo cambio de aceite y filtros completos"
+},
+{
+  "_id": {
+    "$oid": "6595dff1cfd3e793d689f654"
+  },
+  "dominio": "AB123CB",
+  "fecha": "15/01/2023",
+  "tipoDeRep": "mecanica",
+  "observaciones": "Se reparo Tren delantero"
+},
+{
+  "_id": {
+    "$oid": "6595e03fcfd3e793d689f656"
+  },
+  "dominio": "FOM828",
+  "fecha": "25/05/2023",
+  "tipoDeRep": "mecanica",
+  "observaciones": "cambio de pastillas de freno"
+},
+{
+  "_id": {
+    "$oid": "6595e08fcfd3e793d689f658"
+  },
+  "dominio": "FOM828",
+  "fecha": "25/06/2023",
+  "tipoDeRep": "mecanica",
+  "observaciones": "cambio de correas de distribucion"
+},
+{
+  "_id": {
+    "$oid": "6595e0b8cfd3e793d689f65a"
+  },
+  "dominio": "GWA345",
+  "fecha": "20/03/2023",
+  "tipoDeRep": "mecanica",
+  "observaciones": "Frenos"
+},
+{
+  "_id": {
+    "$oid": "6595e0dfcfd3e793d689f65c"
+  },
+  "dominio": "GWA345",
+  "fecha": "20/08/2023",
+  "tipoDeRep": "Service",
+  "observaciones": "Cambio de Aceite y Filtros"
+},
+{
+  "_id": {
+    "$oid": "6595e2d1cfd3e793d689f660"
+  },
+  "dominio": "AD234AC",
+  "fecha": "20/07/2023",
+  "tipoDeRep": "Service",
+  "observaciones": "Cambio de Aceite y Filtros"
+}]

@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "657fc9598ba228fa0a368589"
+  },
+  "usuario": "maximiliano.miras@gmail.com",
+  "password": "1234",
+  "tipoUsuario": "cliente"
+},
+{
+  "_id": {
+    "$oid": "658b369d79b8a5ece84ff3a2"
+  },
+  "usuario": "meridavir@gmail.com",
+  "password": "5678",
+  "tipoUsuario": "admin"
+},
+{
+  "_id": {
+    "$oid": "6594aba754bf574fb3df5cf9"
+  },
+  "usuario": "pepe@gmail.com",
+  "password": "patita",
+  "tipoUsuario": "cliente"
+},
+{
+  "_id": {
+    "$oid": "6594abf354bf574fb3df5cfb"
+  },
+  "usuario": "pancho@gmail.com",
+  "password": "balto",
+  "tipoUsuario": "cliente"
+}]
